@@ -84,6 +84,21 @@ for (i = 0; i < movies.length; i++) {
 */
 
 
+// Practice with Functions 
+// 1
+/*
+function displayMessage (toPrint) {
+    window.console.log(toPrint);
+}
+displayMessage('blabla')
+*/
+
+// 2
+
+
+
+
+
 
 
 
